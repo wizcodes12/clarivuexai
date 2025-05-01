@@ -47,6 +47,7 @@ setup(
             "black>=21.5b2",
             "isort>=5.9.0",
             "flake8>=3.9.0",
+            
         ],
         "all": [
             "tensorflow>=2.4.0",

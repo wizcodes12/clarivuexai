@@ -3,30 +3,15 @@ __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
+.Python
 
 # Virtual Environment
-.venv/
-
-# Build
-build/
-dist/
-*.egg-info/
-
-# VS Code (optional)
-.vscode/
-# Python virtual environments
 .venv/
 venv/
 env/
 ENV/
 
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
-
-# Distribution / packaging
-.Python
+# Build
 build/
 dist/
 *.egg-info/
@@ -36,24 +21,45 @@ dist/
 # Testing
 .pytest_cache/
 .coverage
+htmlcov/
 coverage.xml
 *.cover
+.tox/
 
 # IDEs and editors
 .idea/
+.vscode/
 *.sublime-project
 *.sublime-workspace
-.vscode/
+.project
+.pydevproject
+*.swp
+*.swo
 
 # macOS
 .DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
 
 # Documentation build
 docs/_build/
 docs/_static/
 docs/_templates/
+site/
 
-# Miscellaneous
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Environment variables
+.env
+
+# Logs
 *.log
 *.bak
 *.swp
