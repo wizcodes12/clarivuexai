@@ -39,15 +39,16 @@ setup(
     extras_require={
         "tensorflow": ["tensorflow>=2.4.0"],
         "torch": ["torch>=1.8.0", "torchvision>=0.9.0"],
+        # In setup.py
         "dev": [
             "pytest>=6.0.0",
             "pytest-cov>=2.12.0",
             "sphinx>=4.0.0",
             "sphinx-rtd-theme>=0.5.0",
+            "myst-parser>=0.15.0",  # Add this
             "black>=21.5b2",
             "isort>=5.9.0",
             "flake8>=3.9.0",
-            
         ],
         "all": [
             "tensorflow>=2.4.0",
