@@ -11,7 +11,7 @@ setup(
     description="A unified framework for explainable AI",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/clarivuexai",
+    url="https://github.com/wizcodes12/clarivuexai",
     project_urls={
         "Bug Tracker": "https://github.com/wizcodes12/clarivuexai/issues",
         "Documentation": "https://clarivuexai.readthedocs.io/",
