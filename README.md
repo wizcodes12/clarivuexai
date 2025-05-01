@@ -8,9 +8,9 @@
 
 [![PyPI version](https://img.shields.io/pypi/v/clarivuexai.svg)](https://pypi.org/project/clarivuexai/)
 [![Python](https://img.shields.io/pypi/pyversions/clarivuexai)](https://pypi.org/project/clarivuexai/)
-[![Build Status](https://img.shields.io/github/workflow/status/clarivuexai/clarivuexai/CI)](https://github.com/clarivuexai/clarivuexai/actions)
+[![Build Status](https://img.shields.io/github/workflow/status/clarivuexai/clarivuexai/CI)](https://github.com/clarivuexai/.github/workflows)
 [![Documentation Status](https://img.shields.io/readthedocs/clarivuexai)](https://clarivuexai.readthedocs.io/)
-[![License](https://img.shields.io/github/license/clarivuexai/clarivuexai)](https://github.com/clarivuexai/LICENSE)
+[![License](https://img.shields.io/github/license/clarivuexai/clarivuexai)](https://github.com/wizcodes12/clarivuexai/blob/9c9cb43e4c7dc67e02ea26e02a164ae915323b43/LICENSE)
 [![Downloads](https://img.shields.io/pypi/dm/clarivuexai)](https://pypi.org/project/clarivuexai/)
 
 **A Comprehensive Python Library for Multi-Modal Machine Learning Explainability**
