@@ -193,12 +193,12 @@ Contributions are welcome! Please check out our [contribution guidelines](CONTRI
 If you use ClarivueXAI in your research, please cite:
 
 ```bibtex
-@software{clarivuexai2023,
-  author = {ClarivueXAI Team},
+@software{clarivuexai2025,
+  author = wizcodes12,
   title = {ClarivueXAI: A Comprehensive Python Library for Multi-Modal Machine Learning Explainability},
-  url = {https://github.com/clarivuexai/clarivuexai},
-  version = {1.0.0},
-  year = {2023},
+  url = {https://github.com/wizcodes12/clarivuexai},
+  version = {0.1.0},
+  year = {2025},
 }
 ```
 
@@ -209,5 +209,5 @@ ClarivueXAI is released under the [MIT License](LICENSE).
 ---
 
 <div align="center">
-Made with ❤️ by the ClarivueXAI Team
+Made with ❤️ by the WizCodes
 </div>
