@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# VS Code (optional)
+.vscode/
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
+
+# Testing
+.pytest_cache/
+.coverage
+coverage.xml
+*.cover
+
+# IDEs and editors
+.idea/
+*.sublime-project
+*.sublime-workspace
+.vscode/
+
+# macOS
+.DS_Store
+
+# Documentation build
+docs/_build/
+docs/_static/
+docs/_templates/
+
+# Miscellaneous
+*.log
+*.bak
+*.swp
+*.tmp
